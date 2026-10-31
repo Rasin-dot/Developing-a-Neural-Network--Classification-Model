@@ -192,8 +192,6 @@ print(f"Predicted class for sample input: {predicted_class_label}")
 print(f"Actual class for sample input: {lbe.inverse_transform([int(yst[12].item())])[0]}")
 ```
 
-
-
 ### Dataset Information
 
 <img width="1078" height="503" alt="image" src="https://github.com/user-attachments/assets/1ac99b2a-c981-42ec-b4ea-54f31274cec7" />
@@ -208,11 +206,8 @@ Include confusion matrix here
 ## Classification Report
 <img width="514" height="404" alt="image" src="https://github.com/user-attachments/assets/e556e4ea-8b25-40e7-9174-96ec702f7119" />
 
-
 ### New Sample Data Prediction
 <img width="325" height="53" alt="image" src="https://github.com/user-attachments/assets/727ce2cb-da91-4b1e-bd9f-c4989a9999c4" />
-
-
 
 ## RESULT
 This program has been executed successfully.
